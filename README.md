@@ -7,7 +7,6 @@ https://www.linkedin.com/in/juliana-mascarenhas-ds/
 - Mestre em modelagem computacional
 - _Tech Education Specialist_ na DIO
 - Criadora de conteúdo na [Simplificando Redes](https://www.youtube.com/channel/UCCgBy63IgdEoJ7lR9Ku0HQQ) 
-- Msc. Computational Modeling
 
 
 ### Tópicos estudados:
@@ -44,7 +43,6 @@ https://www.linkedin.com/in/juliana-mascarenhas-ds/
 - SQL Constraints https://www.w3schools.com/sql/sql_constraints.asp
 - Data types SQL https://dev.mysql.com/doc/refman/8.0/en/data-types.html
 - Persistência de dados https://www.take.net/blog/tecnologia/persistencia-de-dados/
-- 
 
 ---
 haldirleao
