@@ -1,6 +1,6 @@
 ## Bootcamp DIO / Banco Pan Java Developer
 ### Módulo: Primeiros passos com SQL (aplicações com MySQL)
-### Juliana Mascarenhas
+### Instrutora: Juliana Mascarenhas
 https://www.linkedin.com/in/juliana-mascarenhas-ds/
 
 - Engenheira da Computação
